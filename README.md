@@ -9,12 +9,6 @@ This paper aims to develop a novelty application to mitigate the shortage of con
   3. The parents should be able to view their children’s current photos which were uploaded by care workers.
   4. The parents should be able to order/contract with the care worker.
 
-Specific function points were extracted from the requirements:
-  1. Information Searching.
-  2. Message Sending.
-  3. Kid’s photos upload and delete
-  4. Order placing
-
 ## Installing and running
 Because this is an IOS project and has not been released yet, an Apple computer is required.
   1. You should download the project file from GitHub into your local machine
